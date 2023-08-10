@@ -1,0 +1,8 @@
+# ignore all .txt files
+*.txt
+
+# ignore orignal file
+task_manager - original.py
+
+# ignore manual backup
+task_manager backup.py
